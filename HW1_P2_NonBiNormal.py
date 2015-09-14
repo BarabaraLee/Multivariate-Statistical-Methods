@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 '''
-This is an demonstration that two normal RVs 
+This is a demonstration that two normal RVs 
 form a distribution that is not bivariate 
 normal distributed.
 '''
