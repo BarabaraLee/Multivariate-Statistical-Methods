@@ -47,7 +47,7 @@ for(i in 1:500){
 }
 MCR_f=MCR_a/500 #0.04144
 
-#-------------Prob3------------------
+#-------------Prob3------------------Implementation of K-means
 #Part1, K=2
 data=crabs[,4:8]
 label<-rep(0,200)
